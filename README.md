@@ -11,3 +11,14 @@ If you use this code to transform the publically available data for further rese
   year={2020}
 }
 ```
+# Data sources:
+1) Crimes in Boston: https://www.kaggle.com/ankkur13/boston-crime-data
+2) Crimes in Chicago: https://www.kaggle.com/chicago/chicago-crime
+3) Crimes in Philadelphia: https://www.kaggle.com/mchirico/philadelphiacrimedata
+4) Crimes in San Francisco: https://www.kaggle.com/roshansharma/sanfranciso-crime-dataset
+5) Crimes in Denver: https://www.kaggle.com/paultimothymooney/denver-crime-data
+6) Fatal police shootings: https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us
+7) Homicide: https://www.kaggle.com/murderaccountability/homicide-reports
+8) Global Terrorism Database: https://www.kaggle.com/START-UMD/gtd
+9) Mass Shootings: https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years
+10) News articles: https://www.kaggle.com/snapcrack/all-the-news
